@@ -8,9 +8,10 @@
 - Cascading Style Sheets (CSS) is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML.
 
 ## How to Reach Me
-- Instagram: @mr_shivek_yadav
+- Instagram: @shivek_ydv
 - Snapchat: shivek_ydv
 - Twitter: @shivek_ydv
+- linkedin @shivek-yadav
 
 ⚡ Fun Fact: I'm passionate about environmental science and sustainability!
 
